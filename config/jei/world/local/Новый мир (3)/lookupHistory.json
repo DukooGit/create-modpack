@@ -1,0 +1,15 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_integrated_farming:roost"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createimmersivetacz:gun_trigger"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:chromatic_compound"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:shadow_steel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rainbowcompound:rainbow_compound"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rainbowcompound:rainbow_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rainbowcompound:rainbow_boots","components":{"minecraft:repair_cost":1,"minecraft:enchantments":{"levels":{"enchantments:big_foot":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rainbowcompound:rainbow_boots","components":{"minecraft:repair_cost":1,"minecraft:enchantments":{"levels":{"enchantments:big_foot":2}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rainbowcompound:rainbow_boots"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_enchantment_industry:blaze_enchanter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdieselgenerators:mold","components":{"createdieselgenerators:mold_type":"createdieselgenerators:bar"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"quark:ancient_tome","components":{"quark:tome_enchantments":{"levels":{"minecraft:loyalty":3}}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

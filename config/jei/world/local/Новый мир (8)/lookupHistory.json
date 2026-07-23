@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_sa:blazing_shovel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:powdered_obsidian"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

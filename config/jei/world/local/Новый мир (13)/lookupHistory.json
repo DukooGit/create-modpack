@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_bic_bit:unbaked_stroopwafel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_bic_bit:stroopwafel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_bic_bit:wrapped_stroopwafel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createnuclear:lead_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createnuclear:raw_lead"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"caverns_and_chasms:turquoise"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

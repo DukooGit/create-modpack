@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"createbb:blue_meth"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createbb:white_meth"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createbb:blue_meth_tray"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

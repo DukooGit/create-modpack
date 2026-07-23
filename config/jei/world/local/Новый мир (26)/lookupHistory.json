@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"waystones:purple_sharestone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:waystone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:mossy_waystone"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
