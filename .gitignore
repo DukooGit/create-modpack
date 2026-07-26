@@ -25,3 +25,11 @@ data/
 fancymenu_data/
 tacz/
 vinurl/
+mods/.connector/
+servers.dat*
+*experience.json
+config/jei/world/
+config/CSC/Log/
+schematics/
+*.py
+mod_check_report.json
