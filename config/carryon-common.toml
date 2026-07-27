@@ -37,7 +37,7 @@
 	#Allow babies to be carried even when adult mob is blacklisted (or not whitelisted)
 	allowBabies = false
 	#Use Whitelist instead of Blacklist for Blocks
-	useWhitelistBlocks = false
+	useWhitelistBlocks = true
 	#Use Whitelist instead of Blacklist for Entities
 	useWhitelistEntities = false
 	#Use Whitelist instead of Blacklist for Stacking
@@ -64,7 +64,7 @@
 	#Entities that CAN be picked up (useWhitelistEntities must be true)
 	allowedEntities = []
 	#Blocks that CAN be picked up (useWhitelistBlocks must be true)
-	allowedBlocks = ["minecraft:chest", "minecraft:trapped_chest", "minecraft:barrel", "minecraft:ender_chest", "ironchest:*", "sophisticatedstorage:barrel"]
+	allowedBlocks = ["minecraft:chest", "minecraft:trapped_chest", "minecraft:barrel", "minecraft:ender_chest", "minecraft:*shulker_box", "#forge:chests", "#forge:barrels", "#neoforge:chests", "#neoforge:barrels", "#c:chests", "#c:barrels", "ironchest:*", "sophisticatedstorage:*", "functionalstorage:*", "extended_drawers:*", "colossalchests:*", "betterstorage:*", "extrastorage:*", "chipped:*chest*", "chipped:*barrel*", "quark:*chest*", "quark:*crate*", "farmersdelight:*cabinet*", "relics:*crate*", "*:*chest*", "*:*barrel*", "*:*drawer*", "*:*shulker*", "*:*crate*", "*:*cabinet*"]
 	#Entities that CAN have other entities stacked on top of them (useWhitelistStacking must be true)
 	allowedStacking = []
 
@@ -83,4 +83,5 @@
 	customPickupConditionsBlocks = []
 	#Custom Pickup Conditions for Entities
 	customPickupConditionsEntities = []
+
 
