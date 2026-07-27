@@ -2377,42 +2377,6 @@
     "maxWaterDepth": 10,
     "implosionChance": 0.85
   },
-  "bbs:chroma_black": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "bbs:chroma_blue": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "bbs:chroma_cyan": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "bbs:chroma_green": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "bbs:chroma_magenta": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "bbs:chroma_red": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "bbs:chroma_white": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "bbs:chroma_yellow": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "bbs:model": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "bellsandwhistles:andesite_bogie_steps": {
     "maxWaterDepth": 12,
     "implosionChance": 0.85
@@ -94051,6 +94015,10 @@
   },
   "moonlight:spawn_box": {
     "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "moreburners:electric_burner": {
+    "maxWaterDepth": 161,
     "implosionChance": 0.05
   },
   "mysticsbiomes:aster": {

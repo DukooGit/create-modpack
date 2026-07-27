@@ -33,3 +33,6 @@ config/CSC/Log/
 schematics/
 *.py
 mod_check_report.json
+
+.update_sha_cache.json
+.update_script.bat
