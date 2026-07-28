@@ -56221,6 +56221,26 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
+  "diagonalfences:netherdescent/arisian_fence": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "diagonalfences:netherdescent/blue_nether_brick_fence": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "diagonalfences:netherdescent/embur_fence": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "diagonalfences:netherdescent/sythian_fence": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "diagonalfences:netherdescent/wailing_fence": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
   "diagonalfences:quark/ancient_fence": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -95769,6 +95789,698 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "netherdescent:arisian_blossom": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_bookshelf": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_branch": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_crafting_table": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "netherdescent:arisian_dandelions": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "netherdescent:arisian_fence": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:arisian_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_log": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:arisian_moss_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_moss_carpet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_planks": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:arisian_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_slab": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:arisian_sprouts": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_stairs": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:arisian_tangle_roots": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_tangle_roots_plant": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "netherdescent:arisian_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:arisian_wood": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:bartering_table": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "netherdescent:blaze_fire_rod": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:blue_nether_brick_fence": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:blue_nether_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:blue_nether_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:blue_nether_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:blue_nether_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:blue_nether_gold_ore": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "netherdescent:blue_nether_quartz_ore": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "netherdescent:blue_netherrack": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "netherdescent:chiseled_blue_nether_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:chiseled_pendorite": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "netherdescent:cracked_blue_nether_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:crimson_berry_bush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:crimson_blackstone_nylium": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "netherdescent:crimson_carpet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:cut_pendorite": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "netherdescent:cut_pendorite_slab": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "netherdescent:cut_pendorite_stairs": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "netherdescent:embur_bookshelf": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_cave_moss": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_crafting_table": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "netherdescent:embur_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "netherdescent:embur_fence": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:embur_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_gel_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_gel_vines": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_gel_vines_plant": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_hanging_moss": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_hyphae": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:embur_lily": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_moss_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_moss_carpet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_nylium": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_pedu": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:embur_planks": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:embur_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_roots": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_slab": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:embur_sprouts": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_stairs": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:embur_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "netherdescent:embur_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:embur_wart": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:fungal_bulbs": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:hanging_sythian_roots": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "netherdescent:hanging_sythian_roots_plant": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "netherdescent:hornet_nest": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "netherdescent:mossy_blue_nether_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:mossy_blue_nether_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:mossy_blue_nether_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:mossy_blue_nether_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "netherdescent:pendorite_bars": {
+    "maxWaterDepth": 161,
+    "implosionChance": 0.05
+  },
+  "netherdescent:pendorite_block": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "netherdescent:pendorite_campfire": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "netherdescent:pendorite_chain": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "netherdescent:pendorite_door": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "netherdescent:pendorite_fire_rod": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:pendorite_grate": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "netherdescent:pendorite_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "netherdescent:pendorite_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "netherdescent:pendorite_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:pendorite_trapdoor": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "netherdescent:pendorite_wall_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_arisian_blossom": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_arisian_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_arisian_sprouts": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_embur_roots": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_embur_wart": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_sythian_fungus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_sythian_roots": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_sythian_sprouts": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_sythian_stalk": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:potted_wailing_fungus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:raw_pendorite_block": {
+    "maxWaterDepth": 98,
+    "implosionChance": 0.41333333
+  },
+  "netherdescent:soul_fire_rod": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:stripped_arisian_log": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:stripped_arisian_wood": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:stripped_embur_hyphae": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:stripped_embur_pedu": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:stripped_sythian_hyphae": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:stripped_sythian_stem": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:stripped_wailing_hyphae": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:stripped_wailing_stem": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:sythian_bookshelf": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_crafting_table": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "netherdescent:sythian_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "netherdescent:sythian_farmland": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_fence": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:sythian_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_fungus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_hyphae": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:sythian_nylium": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_planks": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:sythian_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_roots": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_scaffolding": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_shoot": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_slab": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:sythian_soil": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_sprouts": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_stairs": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:sythian_stalk": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_stem": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:sythian_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "netherdescent:sythian_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:sythian_wart_block": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:tall_arisian_dandelions": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:tall_arisian_sprouts": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:tall_crimson_fungi": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:tall_crimson_roots": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:tall_embur_roots": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:thorn_sprout": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:wailing_bookshelf": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_bulb_blossom": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_crafting_table": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "netherdescent:wailing_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "netherdescent:wailing_fence": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:wailing_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_fungus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_gills": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_grass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_hyphae": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:wailing_nylium": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_planks": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:wailing_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_slab": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:wailing_stairs": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "netherdescent:wailing_stem": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "netherdescent:wailing_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "netherdescent:wailing_vines": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_vines_plant": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "netherdescent:wailing_wart_block": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
   "numismatics:andesite_depositor": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -116132,6 +116844,22 @@
   "visualworkbench:minecraft/smithing_table": {
     "maxWaterDepth": 25,
     "implosionChance": 0.85
+  },
+  "visualworkbench:netherdescent/arisian_crafting_table": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "visualworkbench:netherdescent/embur_crafting_table": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "visualworkbench:netherdescent/sythian_crafting_table": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "visualworkbench:netherdescent/wailing_crafting_table": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
   },
   "visualworkbench:runes/crafting_altar": {
     "maxWaterDepth": 24,
