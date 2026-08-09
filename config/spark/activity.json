@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Dukoo195",
+      "uniqueId": "43b6d20f-41c4-3e1e-9828-8d720a41965c"
+    },
+    "time": 1786216828534,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/rm2ov1SshT"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Dukoo195",
+      "uniqueId": "e7cf10fd-6727-46b5-9af8-0239093f8253"
+    },
+    "time": 1785412614058,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/U3jAADcCRc"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Dukoo195",
+      "uniqueId": "e7cf10fd-6727-46b5-9af8-0239093f8253"
+    },
+    "time": 1785412329259,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/BtR8yKlgbc"
+    }
+  }
+]

@@ -46,7 +46,18 @@
     "tacz:workbench_b",
     "tacz:workbench_c"
   ],
-  "blacklistApplyDualHanded": {},
+  "blacklistApplyDualHanded": {
+    "tacz:modern_kinetic_gun": false,
+    "tacz:attachment": false,
+    "tacz:ammo": false,
+    "tacz:ammo_box": false,
+    "tacz:gun_smith_table": false,
+    "tacz:statue": false,
+    "tacz:target_minecart": false,
+    "tacz:workbench_a": false,
+    "tacz:workbench_b": false,
+    "tacz:workbench_c": false
+  },
   "animationPackSelections": {},
   "animationPackTypeSelections": {},
   "mixSpecificForceOverride": {}
