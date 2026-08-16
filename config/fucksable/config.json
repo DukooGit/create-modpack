@@ -34,6 +34,7 @@
     "sable-scalablelux-incompat-bypass": false,
     "scalablelux-compat": true,
     "constraint-self-fix": true,
+    "world-height-override": false,
     "fuck-op-player": false
   },
   "fixParams": {
@@ -41,6 +42,10 @@
       "xLimit": 30000000,
       "yMin": -512,
       "yMax": 1024
+    },
+    "world-height-override": {
+      "maxBuildHeight": 320,
+      "minBuildHeight": -64
     }
   }
 }
